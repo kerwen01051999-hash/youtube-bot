@@ -1,0 +1,4 @@
+google-genai
+edge-tts
+moviepy
+google-api-python-client
